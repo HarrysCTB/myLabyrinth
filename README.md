@@ -33,6 +33,8 @@ L'application se compose de deux fonctionnalités principales :
 - Sélectionnez l'option de génération de labyrinthe. ```java Labyrinth X Y simpleAlgo```
 - Le labyrinthe sera généré et affiché à l'écran.
 - Sauvegardez le labyrinthe avec ```SAVE```.
+
+<img src="Screenshot/Labyrinthe.png" width="400" height="200" alt="Texte alternatif">
   
 La résolution de labyrinthes consiste à trouver le chemin de sortie à partir du labyrinthe généré. L'algorithme de résolution utilisé est également simple et basique.
 
@@ -41,6 +43,8 @@ La résolution de labyrinthes consiste à trouver le chemin de sortie à partir 
 - Exécutez l'application. ```java mySolver```
 - Sélectionnez le labyrinthe générer. ```java mySolver map.txt```
 - Le labyrinthe sera résolu et affiché à l'écran avec le chemin de sortie marqué.
+
+<img src="Screenshot/Resolveur.png" width="400" height="200" alt="Texte alternatif">
 
 <h2>Contributions</h2>
 
