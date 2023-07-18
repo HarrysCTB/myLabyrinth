@@ -1,4 +1,4 @@
-# Projet de Création et Résolution de Labyrinthes - Version 1
+# Projet de Création et Résolution de Labyrinthes
 
 Ce projet est une implémentation simple d'un créateur de labyrinthes et d'un résolveur de labyrinthes en utilisant un algorithme basique. L'objectif est de générer un labyrinthe aléatoire et de trouver le chemin de sortie à l'aide d'un algorithme de résolution.
 
